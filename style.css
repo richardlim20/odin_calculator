@@ -54,3 +54,7 @@ h1 {
 #last-row >:first-child {
     background-color: grey;
 }
+
+.active {
+    background-color: grey;
+}
